@@ -221,3 +221,17 @@ Use the PRISMA scripts to prepare and render the literature-selection flow diagr
 python visualization/build_PRISMA.py
 python visualization/visualization_PRISMA.py
 ```
+
+## Citation
+
+```bibtex
+@misc{pham2026evaluatingagenticbioinformaticsfunction,
+      title={Evaluating Agentic Bioinformatics through Function, Evidence, and Validation}, 
+      author={Phuc Pham and Truong-Son Hy},
+      year={2026},
+      eprint={2607.27556},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2607.27556}, 
+}
+```
