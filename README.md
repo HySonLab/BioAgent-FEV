@@ -99,7 +99,7 @@ export FEV_PROJECT_ROOT="/absolute/path/to/BioAgents-FEV"
 ```text
 config/                  Search vocabulary and execution settings
 crawl_data/              Source-specific retrieval scripts
- data_raw/               Raw retained and rejected retrieval records
+data_raw/                Raw retained and rejected retrieval records
 filter/                  Combination, filtering, deduplication, and export stages
 data/                    Screening outputs and human-review files
 logs/                    Timestamped retrieval logs
