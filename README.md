@@ -91,7 +91,7 @@ Optional environment variables:
 
 ```bash
 export NCBI_API_KEY="your-api-key"
-export FEV_PROJECT_ROOT="/absolute/path/to/BioAgents"
+export FEV_PROJECT_ROOT="/absolute/path/to/BioAgents-FEV"
 ```
 
 ## Repository structure
